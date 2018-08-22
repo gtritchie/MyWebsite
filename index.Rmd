@@ -1,0 +1,7 @@
+---
+title: "My Website"
+---
+
+Hello, Website!
+
+<a href='misc.html'>See more misc.</a>
