@@ -2,6 +2,11 @@
 title: "My Website"
 ---
 
-Hello, Website!
+Hello, Website! This is the home page of a simple R Markdown website.
 
-<a href='misc.html'>See more misc.</a>
+This page was last Knitted at:
+```{r echo=FALSE}
+date()
+```
+
+<a href='misc.html'>Another page</a>
