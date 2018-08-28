@@ -1,0 +1,10 @@
+---
+title: "orphan"
+author: "Gary"
+date: "8/28/2018"
+output: html_document
+---
+
+## Orphan Page
+
+This page isn't listed in the site navigation.
