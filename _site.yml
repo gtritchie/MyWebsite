@@ -6,5 +6,7 @@ navbar:
       href: index.html
     - text: "Misc"
       href: misc.html
+    - text: "HTML"
+      href: "page.html"
     - text: "About"
       href: about.html
